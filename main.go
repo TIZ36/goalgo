@@ -9,5 +9,8 @@ func main() {
 
 	//algorithm.FindAnagrams("33", "4")
 
-	fmt.Print(algorithm.NumDifferentIntegers("192383183928778851682383a2089984061937879119"))
+	//fmt.Print(algorithm.NumDifferentIntegers("192383183928778851682383a2089984061937879119"))
+
+	//fmt.Print(algorithm.SquareIsWhite("b2"))
+	fmt.Print(algorithm.CheckPowersOfThree(12))
 }
