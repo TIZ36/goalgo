@@ -14,11 +14,11 @@ func main() {
 	//fmt.Print(algorithm.SquareIsWhite("b2"))
 	//fmt.Print(algorithm.CheckPowersOfThree(12))
 
-	a := "woqrqcvfdgkrafoqdktsfpeygawfpdlvaylgpxhufpvucmmztjoqmxhegdpeczbtvwrmnwrvlptscwwqbjstanyqbgoagxopvgtlyzsemgktcgciualltsquepotmtszbmejbwbtzlavpxnujdsdyrypfcfcfwdidglybzvzuznytwndidzumoekzuukxtpouudsfcohapfcjjmqwjgcvalzarugmzucheydwsncxgyojnfvgroihfckmbtqewxhuqihplprgyeaqhocivaupdfokwpliziwcmuxnebxeszxbsrmffwwdz"
+	//a := "woqrqcvfdgkrafoqdktsfpeygawfpdlvaylgpxhufpvucmmztjoqmxhegdpeczbtvwrmnwrvlptscwwqbjstanyqbgoagxopvgtlyzsemgktcgciualltsquepotmtszbmejbwbtzlavpxnujdsdyrypfcfcfwdidglybzvzuznytwndidzumoekzuukxtpouudsfcohapfcjjmqwjgcvalzarugmzucheydwsncxgyojnfvgroihfckmbtqewxhuqihplprgyeaqhocivaupdfokwpliziwcmuxnebxeszxbsrmffwwdz"
 
 	//b := "aabcbaa"
 
-	v := algorithm.BeautySum(a)
-	fmt.Println(v)
+	//v := algorithm.BeautySum(a)
+	fmt.Println(algorithm.CheckIfPangram("dfdsf"))
 	//fmt.Println(algorithm.BeautyDiff("aafafa"))
 }
