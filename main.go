@@ -19,6 +19,7 @@ func main() {
 	//b := "aabcbaa"
 
 	//v := algorithm.BeautySum(a)
-	fmt.Println(algorithm.CheckIfPangram("dfdsf"))
+
+	fmt.Println(algorithm.GetLucky("dbvmfhnttvr", 5))
 	//fmt.Println(algorithm.BeautyDiff("aafafa"))
 }
