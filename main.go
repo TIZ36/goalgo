@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"github.com/tiz36/goalgo/algorithm"
 )
 
 func main() {
@@ -20,6 +19,10 @@ func main() {
 
 	//v := algorithm.BeautySum(a)
 
-	fmt.Println(algorithm.GetLucky("dbvmfhnttvr", 5))
+	a := "fadfadf"
+
+	for i, c := range a {
+		fmt.Println(i, c)
+	}
 	//fmt.Println(algorithm.BeautyDiff("aafafa"))
 }
